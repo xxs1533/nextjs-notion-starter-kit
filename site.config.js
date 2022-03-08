@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: 'b5e4fc6ead1040dfba85394ea6647c9e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'XXS',
   domain: 'https://vintage-salt-ebd.notion.site/9dd55fc9ba8c4c54a5d2e52849eb47cf?v=b5e4fc6ead1040dfba85394ea6647c9e',
-  author: 'Travis Fischer',
+  author: '',
 
   // open graph metadata (optional)
   description: 'Example site description',

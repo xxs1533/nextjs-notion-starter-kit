@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
+  name: 'XXS',
+  domain: 'https://vintage-salt-ebd.notion.site/9dd55fc9ba8c4c54a5d2e52849eb47cf?v=b5e4fc6ead1040dfba85394ea6647c9e',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
